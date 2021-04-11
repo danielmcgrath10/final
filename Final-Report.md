@@ -10,7 +10,7 @@
 
 ### What’s the URL of your github repository with the code for your de-
 ### ployed app?
-- https://github.com/danielmcgrath10/final_project
+- https://github.com/danielmcgrath10/final
 
 ### Is your app deployed and working?
 - Yes, it should be
