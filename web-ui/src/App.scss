@@ -1,0 +1,24 @@
+@import "~bootstrap/scss/bootstrap";
+
+html {
+  height: 100%;
+}
+
+body {
+  height: inherit;
+}
+
+.App {
+  display: flex;
+  min-height: 100vh;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
